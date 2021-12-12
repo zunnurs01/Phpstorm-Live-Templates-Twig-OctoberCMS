@@ -1,4 +1,4 @@
-# Phpstorm Live Templates Twig OctoberCMS
+# Phpstorm Live Templates Twig OctoberCMS (Archived: OctoberCMS is totally dead because of greediness)
 
 ## References
 
